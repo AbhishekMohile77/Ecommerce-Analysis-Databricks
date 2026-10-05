@@ -55,7 +55,11 @@ The Databricks dashboard provides two main views:
 - Category performance
 - Payment-method distribution
 
+<img src="dashboard images/Ecommerce_Dashboard1.png">
+
 ### Geographical Analysis
 - Statewise revenue
 - Geographic sales distribution
 - Customer membership by state
+
+<img src="dashboard images/Ecommerce_Dashboard2.png">
